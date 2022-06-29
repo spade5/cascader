@@ -59,7 +59,7 @@
     "prettier": "^2.7.1",
     "rc-form": "^2.4.0",
     "rc-trigger": "^5.0.4",
-    "react": "^16.0.0",
+    "react": "^18.2.0",
     "react-dom": "^16.0.0",
     "typescript": "^4.4.2"
   },
